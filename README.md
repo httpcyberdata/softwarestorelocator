@@ -1,6 +1,6 @@
 
 
-## Software Store Locator
+## Software Store Locator project for developers to learn more about software development
 ### Mountain View, CA
 This is TraversyMedia's tutorial:
      https://www.youtube.com/watch?v=9FQrFah9rnc&t=1751s
