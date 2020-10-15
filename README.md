@@ -15,11 +15,11 @@ Project differences:
 Software requirements:
 
 -  MongoDB installed on your machine.
--  Node.js LTS
+-  Node.js LTS installed on your machine.
 -  Nodemon installed npm i -g nodemon
 -  NPM Node package manager
--  Mapbox developer account
--  MapQuest developer account
+-  Have a Mapbox developer account
+-  Have a MapQuest developer account
 
 # HOW TO OPERATE 
 
